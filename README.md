@@ -7,4 +7,5 @@ This repository aims at demonstrating the skills in:
 3. Reporting and presentation
 
 II. CONTENT
+
 github.com/ngocgiaoblabla/spam_otp/blob/main/PD%20-%20Spam%20OTP.pdf
