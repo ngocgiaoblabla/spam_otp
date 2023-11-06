@@ -6,6 +6,6 @@ This repository aims at demonstrating the skills in:
 2. Uncovering underlying reasons
 3. Reporting and presentation
 
-II. CONTENT
+II. **CONTENT**
 
 github.com/ngocgiaoblabla/spam_otp/blob/main/PD%20-%20Spam%20OTP.pdf
