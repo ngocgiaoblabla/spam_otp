@@ -1,5 +1,8 @@
 **SPAM OTP**
 
-Skills: Anomaly detection, problem solving, SQL, presentation
+**GOAL**:
+This repository aims at demonstrating the skills in:
+1. Detecting anomalies in data
+2. Uncovering underlying reasons
+3. Reporting and presentation
 
-Detect anomalies in data, uncover underlying reasons, reporting and presentation
